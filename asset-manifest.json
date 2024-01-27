@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nilesh-portfolio/static/css/main.ddde34b2.css",
+    "main.js": "/nilesh-portfolio/static/js/main.ba83e8d8.js",
+    "static/media/nk.png": "/nilesh-portfolio/static/media/nk.bf1e6a9eb7433d5b8ef2.png",
+    "static/media/Resume.pdf": "/nilesh-portfolio/static/media/Resume.2a480389c6e3085e00e8.pdf",
+    "static/media/nk.jpg": "/nilesh-portfolio/static/media/nk.a34a607132b1f5f5554d.jpg",
+    "index.html": "/nilesh-portfolio/index.html",
+    "main.ddde34b2.css.map": "/nilesh-portfolio/static/css/main.ddde34b2.css.map",
+    "main.ba83e8d8.js.map": "/nilesh-portfolio/static/js/main.ba83e8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddde34b2.css",
+    "static/js/main.ba83e8d8.js"
+  ]
+}
